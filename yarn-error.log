@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Karan\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\Karan\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Karan\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\ProgramData\Oracle\Java\javapath;C:\Python310\Scripts;C:\Python310;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\dotnet;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs;C:\Users\Karan\.console-ninja\.bin;C:\Users\Karan\AppData\Local\Microsoft\WindowsApps;C:\Users\Karan\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Karan\AppData\Roaming\npm;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;D:\Programs\JetBrains\PyCharm 2021.3\bin;D:\Programs\JetBrains\WebStorm 2021.3\bin;D:\Programs\MongoDB\mongosh;D:\Programs\flutter\bin;D:\Programs\MongoDB\Ver5\bin;C:\Users\Karan\AppData\Local\Yarn\bin;D:\Programs\Android\SDK\tools;C:\Users\Karan\AppData\Roaming\Python\Python310\Scripts;C:\Users\Karan\AppData\Local\GitHubDesktop\bin;D:\Programs\heroku\bin;D:\Programs\Java\bin;D:\Programs\JetBrains\IntelliJ IDEA\IntelliJ IDEA 2022.1.1\bin;C:\Users\Karan\.fly\bin;C:\Users\Karan\.deta\bin;C:\Users\Karan\AppData\Local\Microsoft\WindowsApps;D:\Programs\sqlite-tools-win32-x86-3390400;D:\Coding\Python\selenium\learn\intro.py;D:\Programs\kubo;C:\Users\Karan\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  16.13.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Users\Karan\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:137143:13)
+      at Interface.emit (node:events:390:28)
+      at Interface._ttyWrite (node:readline:1081:16)
+      at ReadStream.onkeypress (node:readline:288:10)
+      at ReadStream.emit (node:events:390:28)
+      at emitKeys (node:internal/readline/utils:358:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (node:internal/readline/emitKeypressEvents:61:36)
+      at ReadStream.emit (node:events:390:28)
+      at addChunk (node:internal/streams/readable:315:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
